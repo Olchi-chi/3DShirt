@@ -1,0 +1,39 @@
+footer{
+    background-color: #E5E2FF;
+    border-radius: 18px;
+    padding: 36px 24px;
+    display: flex;
+    flex-direction: column;
+    gap:40px;
+
+}
+
+.footer__info{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.footer__info nav{
+    margin: 0px;
+    display: flex;
+    gap: 33px;
+}
+
+.footer__contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-size: 24px;
+    color: #5458B0;
+    text-align: right;
+}
+
+.footer__logo{
+    max-width:107px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: -15px;
+}

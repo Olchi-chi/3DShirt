@@ -1,0 +1,63 @@
+.instruction-section{
+    padding-top: 5px;
+}
+
+.instruction-section h2{
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.instruction-section__info{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.instruction-section__block{
+    display: flex;
+    gap: 16px;
+}
+
+.instruction-section__block img{
+    margin-top:-2px;
+    width: 510px;
+    height: 295px;
+    border-radius: 18px;
+    border: 2px solid #FFFFFF;
+}
+
+.instruction-section__text-block{
+    margin-top: -22px;
+}
+
+.instruction-section__text-block h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    line-height: auto;
+    text-align: right;
+}
+
+.instruction-section__text-block p{
+    font-size: 24px;
+    width: 527px;
+    line-height: auto;
+    background-color: #FFFFFF;
+    border-radius: 18px;
+    padding: 86px 89px 86px 90px;
+}
+
+.instruction-section__text-block.right h3{
+    text-align: left;
+}
+
+.instruction-section__text-block.right p{
+    width: 478px;
+    padding: 74px 114px;
+}
+
+.instruction-section__text-block.third p{
+    width: 500px;
+    padding: 74px 103px;
+}

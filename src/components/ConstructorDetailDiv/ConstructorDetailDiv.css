@@ -1,0 +1,46 @@
+.constructor-detail-div{
+    margin-top: 34px;
+    padding: 25px 15px 15px 15px;
+    width: 471px;
+    background-color: #E5E2FF;
+    border-radius: 20px;
+}
+
+.constructor-detail-div h2{
+    text-align: center;
+    padding:0px;
+    margin: 0px;
+    padding-bottom: 7.68px;
+}
+
+.constructor-detail-div Button{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.constructor-detail-div h3{
+    font-size: 24px;
+    font-weight: normal;
+    padding: 15px 0px;
+    margin: 0px;
+}
+
+.constructor-detail-div__main-button{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+    padding-bottom: 15px;
+}
+
+.constructor-detail-div__window{
+    border-radius: 17px;
+    height: 365px;
+    width: 470px;
+    background-color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.constructor-detail-div__preview{
+    margin-left: 190px;
+}

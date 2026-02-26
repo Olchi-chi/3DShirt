@@ -1,0 +1,21 @@
+header{
+    background-color: #E5E2FF;
+    border-radius: 20px;
+    margin-bottom: 34px;
+    padding: 10px 36px;
+    display: flex;
+}
+
+nav{
+    margin: 0px 50px;
+    gap: 59px;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    max-width:107px;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+}

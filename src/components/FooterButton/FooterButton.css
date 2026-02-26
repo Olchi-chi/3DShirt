@@ -1,0 +1,16 @@
+.footer-button{
+    font-size: 24px;
+    color: #5458B0;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: 'Muller', sans-serif;
+}
+
+.footer-button:hover{
+    color: #323070;
+}
+
+.footer-button:active{
+    color: #0601B1;
+}

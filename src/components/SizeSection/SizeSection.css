@@ -1,0 +1,47 @@
+.size-section{
+    background-image: url('../../assets/SizeBack.svg');
+    color: #1e1e1e;
+    margin-top: 66px;
+    padding-left: 17px;
+    padding-bottom: 15px; 
+    margin-bottom: 33px;
+}
+
+.size-section h2{
+    padding-top: 20px;
+    padding-left: 69.45px;
+}
+
+.size-section__info{
+    display: flex;
+
+}
+
+.size-section__table{
+    background-image: url('../../assets/SizeScreen.png');
+    height: 258px;
+    width: 698px;
+    border: 8px solid #FFFFFF;
+    border-radius: 17px;
+    margin-bottom: 17px;
+}
+
+.size-section__text-table{
+    width: 654px;
+    background-color: #FFFFFF;
+    padding: 28px 30px;
+    align-items: center;
+    border-radius: 17.25px;
+    font-size: 16px;
+}
+
+.size-section__person-photo{
+    background-image: url('../../assets/PersonPhoto.png');
+    height: 532px;
+    width: 325px;
+    position: absolute;
+    z-index: 1;
+    margin-top: -74px;
+    margin-left: 815px;
+    /* padding-top: -532px; */
+}

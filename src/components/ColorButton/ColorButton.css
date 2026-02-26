@@ -1,0 +1,24 @@
+.color-button{
+    height: 124px;
+    width: 70px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    background-color: var(--base-color, #FFFFFF);
+}
+
+.color-button:hover{
+    background: linear-gradient(
+    to bottom,
+    rgba(229, 226, 255, 0.3),
+    rgba(229, 226, 255, 0.3)
+  ), var(--base-color, #FFFFFF);
+}
+
+.color-button:active{
+    background: linear-gradient(
+    to bottom,
+    rgba(50, 48, 112, 0.3),
+    rgba(50, 48, 112, 0.3)
+  ), var(--base-color, #FFFFFF);
+}

@@ -1,0 +1,19 @@
+.header-button{
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #5458B0;
+    border: none;
+    border-radius: 26px;
+    height: 44px;
+    width: 154px;
+    cursor: pointer;
+}
+
+.header-button:hover{
+    background-color: #7478C4;
+}
+
+.header-button:active{
+    background-color: #323070;
+}

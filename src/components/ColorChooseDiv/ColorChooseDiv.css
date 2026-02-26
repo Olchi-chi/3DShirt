@@ -1,0 +1,23 @@
+.color-choose-div{
+    width: 101px;
+    
+}
+
+.color-choose-div h3{
+    padding: 15px;
+    padding-left: 3px;
+    padding-bottom: 0px;
+    font-size: 24px;
+    text-align: center;
+    color:  #FFFFFF;
+    
+}
+
+.color-buttons-div{
+    background-color: #E5E2FF;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    gap: 19.87px;
+}
